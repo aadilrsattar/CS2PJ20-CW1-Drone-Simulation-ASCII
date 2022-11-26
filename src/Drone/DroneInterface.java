@@ -1,7 +1,6 @@
 package Drone;
 
 import javax.swing.*;
-import javax.swing.filechooser.FileFilter;
 import java.io.*;
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
